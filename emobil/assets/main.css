@@ -1,0 +1,67 @@
+body{
+    background-color:rgb(180, 162, 162);
+}
+.title{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(243, 181, 243);
+    color: rgb(100, 87, 87);;
+    font: size 20px;
+    border-radius: 8px;
+    width: block;
+    padding: 0.5em 1.2em;
+    height: 50%;
+    border: unset;
+    cursor: pointer;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+a{
+    text-decoration: none;
+}
+.register{
+    width:50%;
+    margin: auto;
+}
+
+.reg{
+    color: rgb(109, 26, 109);
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    margin-bottom: 2em;
+    color:white;
+    text-align: center;
+}
+
+.inputs{
+    width:100%;
+    height: 38px;
+    border-radius: 8px;
+    border: unset;
+    padding-left: 16px;
+    font-weight: bold;
+    color: #c5367b;
+}
+.btn-reg{
+    width: 50%;
+    height: 48px;
+    color: #fff;
+    background-color: rgb(109, 26, 109);
+    font: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: unset;
+}
+img{
+    max-width: 500px ;
+    margin: 2em;
+    align-items: center;
+}
